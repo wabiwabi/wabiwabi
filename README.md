@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wabiwabi
+- 👋 Hi, I’m @wabiwasabi
 - 👀 I’m interested blowing my own mind (with cool code)
 - 🌱 I’m currently learning c++ and javascript
 - 💞️ I’m looking to collaborate on anything that will help me practise my coding skills
