@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @wabiwasabi
+- 👋 Hi, I’m Nwabisa May
 - 👀 I’m interested in blowing my own mind (with cool code)
-- 🌱 I’m currently learning c++ and javascript
+- 🌱 I’m currently studying Applied Maths and Computer Science; learning c++ and javascript
 - 💞️ I’m looking to collaborate on anything that will help me practise my coding skills
 - 📫 How to reach me ...
+- LinkedIn: https://t.co/7Uw2JNJOYz
 
 <!---
 wabiwabi/wabiwabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
