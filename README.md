@@ -1,9 +1,10 @@
 LinkedIn: https://t.co/7Uw2JNJOYz
 
-- 👋 Hi, I’m Nwabisa May
-- 👀 I’m interested in solving real world problems with cool code :)
-- 🌱 I’m currently studying Applied Maths and Computer Science; learning c++ and javascript
-- 💞️ I’m looking to collaborate on anything that will help me practise my coding skills
+👋 Hi!
+    I’m Nwabisa May
+👀 I’m interested in solving real world problems with cool code :)
+🌱 Currently studying Applied Maths and Computer Science; learning c++ and javascript
+💞️ I’m looking to collaborate on anything that will help me grow as a developer
 
 
 <!---
