@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nwabisa May
-- 👀 I’m interested in blowing my own mind (with cool code)
+- 👀 I’m interested in solving real world problems with cool code :)
 - 🌱 I’m currently studying Applied Maths and Computer Science; learning c++ and javascript
 - 💞️ I’m looking to collaborate on anything that will help me practise my coding skills
 - 📫 How to reach me ...
