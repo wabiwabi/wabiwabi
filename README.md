@@ -1,13 +1,13 @@
-# Hi, I'm Nwabi 👋
+# Hi, I'm Nwabi
 
-💻 **Full Stack Data Engineer | Cloud Practitioner | Python & SQL Enthusiast**
-🎓 AWS Solutions Architect Associate | Studying Computer Science & Applied Mathematics
+ **Full Stack Data Engineer | Cloud Practitioner | Python & SQL Enthusiast**
+ AWS Solutions Architect Associate | Studying Computer Science & Applied Mathematics
 
 I’m building my skills in cloud architecture, data engineering, and backend development. I enjoy solving real-world problems with clean, efficient code — and I document my learning journey openly.
 
 ---
 
-## 🔧 Tech Stack & Tools
+##  Tech Stack & Tools
 
 **Languages:** Python, SQL, C++, Bash
 **Cloud:** AWS (S3, EC2, IAM, Lambda, Glue), Terraform (beginner)
@@ -16,9 +16,9 @@ I’m building my skills in cloud architecture, data engineering, and backend de
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🔹 **CLI Banking Application (Python + PostgreSQL)**
+###  **CLI Banking Application (Python + PostgreSQL)**
 
 A modular, secure banking simulation with:
 
@@ -34,7 +34,7 @@ A modular, secure banking simulation with:
 
 ---
 
-### 🔹 **Data Engineering Learning Projects**
+###  **Data Engineering Learning Projects**
 
 Small pipeline-style experiments using:
 
@@ -47,7 +47,7 @@ Small pipeline-style experiments using:
 
 ---
 
-## 📚 What I'm Learning Right Now
+##  What I'm Learning Right Now
 
 * Data engineering patterns and orchestration
 * AWS data services (Glue, Athena, Redshift)
@@ -56,7 +56,7 @@ Small pipeline-style experiments using:
 
 ---
 
-## 🤝 Let’s Connect
+##  Let’s Connect
 
 💼 LinkedIn: LinkedIn: https://t.co/7Uw2JNJOYz
 📫 Email: may.nwabi@gmail.com
