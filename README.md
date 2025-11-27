@@ -1,10 +1,16 @@
 LinkedIn: https://t.co/7Uw2JNJOYz
 
-Hi!
-    I’m Nwabi.
+Hi,
+I’m Nwabi. 
+
+    
 I’m interested in solving real world problems with code and AI
- 2 years AWS Solution Architect, with data engineering and analytics experience
- Keen to collaborate on anything data/cloud related
+
+
+2 years AWS Solution Architect, with data engineering and analytics experience
+
+
+Keen to collaborate on anything data/cloud related
 
 
 <!---
