@@ -4,13 +4,11 @@ Hi,
 I’m Nwabi. 
 
     
-I’m interested in solving real world problems with code and AI
+- I’m interested in solving real world problems with code and AI
 
+- 2 years AWS Solution Architect, with data engineering and analytics experience
 
-2 years AWS Solution Architect, with data engineering and analytics experience
-
-
-Keen to collaborate on anything data/cloud related
+- Keen to collaborate on anything data/cloud related
 
 
 <!---
