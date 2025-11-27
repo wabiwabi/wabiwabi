@@ -1,10 +1,10 @@
 LinkedIn: https://t.co/7Uw2JNJOYz
 
 Hi!
-    I’m Nwabisa.
-I’m interested in solving real world problems with cool code :)
- Currently studying Applied Maths and Computer Science; learning c++, html, and css.
- I’m looking to collaborate on anything that will help me grow as a developer
+    I’m Nwabi.
+I’m interested in solving real world problems with code and AI
+ 2 years AWS Solution Architect, with data engineering and analytics experience
+ Keen to collaborate on anything data/cloud related
 
 
 <!---
